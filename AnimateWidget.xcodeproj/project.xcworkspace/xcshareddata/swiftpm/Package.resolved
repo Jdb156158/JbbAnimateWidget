@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "clockrotationeffect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Eilgnaw/ClockRotationEffect.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1123134637676d3c04b6a0c09e9b6602514eca44"
+      }
+    }
+  ],
+  "version" : 2
+}
