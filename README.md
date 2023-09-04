@@ -11,6 +11,7 @@ ios小组件动画效果调研
 | --------------- | :--: | :----: |
 | 滚动相册      | ![Filmage 2023-09-04_145328](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/dd3aadaf-846b-471e-bc39-f3e523be8b47)|    2023年8月15日    |
 | 数字雨效果    | ![Filmage 2023-09-04_151318](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/53ba45c9-bcf2-4b08-9478-5048e0e7f9ba)|    2023年8月15日    |
+| 充电特效动画  | ![Filmage 2023-09-04_151835](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/cd3691ee-fa39-4f96-a4cf-e5333947c711)|    2023年8月15日    |
 | 动态毛玻璃效果 | ![Filmage 2023-09-04_121607](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/f77fd2b6-9649-44cf-8c06-6ac8edb6f8be)|    2023年8月10日    |
 | 上下移动      | ![QQ20230804-185945-HD](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/f4b55890-9908-4305-9099-59ac9d297473)   |   2023年8月5日   |
 | 左右移动      | ![Filmage 2023-09-04_122628](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/7a13e791-0724-4344-9829-a8714106f39e)   |   2023年8月5日   |
