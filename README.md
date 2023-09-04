@@ -2,12 +2,7 @@
 
 ios小组件动画效果调研
 
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-
-+ this will be highlighted in green
-- this will be highlighted in red注意此工程中只包含基础库，所有研究出的成果效果未分享源码，需要大家自己去摸索研究，在基础库的基础上绝对是可以研究出来的
+⚠️注意此工程中只包含基础库，所有研究出的成果效果未分享源码，需要大家自己去摸索研究，在基础库的基础上绝对是可以研究出来的⚠️
 
 
 2023年8月5日目前实现效果上下移动：
