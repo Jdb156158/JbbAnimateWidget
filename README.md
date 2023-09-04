@@ -10,6 +10,6 @@ ios小组件动画效果调研
 | 效果名称            | 效果gif | 研究出来成果日期 |
 | --------------- | :--: | :----: |
 | 上下移动     | ![QQ20230804-185945-HD](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/f4b55890-9908-4305-9099-59ac9d297473)   |   2023年8月5日   |
-| 动态毛玻璃效果 | ![透明玻璃效果](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/2d6d3515-ce71-445b-afd3-6611c9ecbe8e) |    2023年8月10日    |
+| 动态毛玻璃效果 | ![Filmage 2023-09-04_121607](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/f77fd2b6-9649-44cf-8c06-6ac8edb6f8be)|    2023年8月10日    |
 
 
