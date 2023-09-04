@@ -1,7 +1,14 @@
 # JbbAnimateWidget
 
 ios小组件动画效果调研
+
 <font color=red>注意此工程中只包含基础库，所有研究出的成果效果未分享源码，需要大家自己去摸索研究，在基础库的基础上绝对是可以研究出来的</font>
+<font color=red>我是红色</font>
+<font color=#008000>我是绿色</font>
+<font color=yellow>我是黄色</font>
+<font color=Blue>我是蓝色</font>
+<font color= #871F78>我是紫色</font>
+<font color= #DCDCDC>我是浅灰色</font>
 
 2023年8月5日目前实现效果上下移动：
 但是view上添加内容后就错位了，需要继续一起研究的加我微信17607199285
