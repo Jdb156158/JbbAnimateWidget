@@ -12,4 +12,5 @@ ios小组件动画效果调研
 
 动态毛玻璃背景：
 
-![透明玻璃效果](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/c9144dcd-6158-48dd-8dda-b67cd8aeb421)
+![透明玻璃效果](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/2d6d3515-ce71-445b-afd3-6611c9ecbe8e)
+
