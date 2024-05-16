@@ -16,11 +16,12 @@ ios小组件动画效果调研
 
 希望大家又新的思路积极分享啊，微信群目前有9个iOS开发都做研究这个问题，大家感兴趣的可以一起
 
+
 # 下边展示一些研究出来的效果
 
 | 效果名称            | 效果gif(低清压缩了) | 研究出来成果日期 |
 | --------------- | :--: | :----: |
-| 发财龙画     | ![Filmage 2023-09-04_145328](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/dd3aadaf-846b-471e-bc39-f3e523be8b47)|    2024年05月16日    |
+| 发财龙画     | ![Filmage 2024-05-16_190922](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/3f7e943e-220f-453c-b310-9a02a17cdf83)|     2024年05月16日    |
 | 滚动相册      | ![Filmage 2023-09-04_145328](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/dd3aadaf-846b-471e-bc39-f3e523be8b47)|    2023年8月15日    |
 | 数字雨效果    | ![Filmage 2023-09-04_151318](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/53ba45c9-bcf2-4b08-9478-5048e0e7f9ba)|    2023年8月15日    |
 | 充电特效动画  | ![Filmage 2023-09-04_151835](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/cd3691ee-fa39-4f96-a4cf-e5333947c711)|    2023年8月15日    |
