@@ -21,6 +21,7 @@ ios小组件动画效果调研
 
 | 效果名称            | 效果gif(低清压缩了) | 研究出来成果日期 |
 | --------------- | :--: | :----: |
+| 摇摇乐     |![摇摇乐](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/b3771e7a-f5d1-4770-ad40-10646526c297)|     2024年07月03日    |
 | 自动敲木鱼     |![Filmage 2024-05-14_185444](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/55cae158-b3da-4c57-b6c6-a5f2f84e9156)|     2024年06月06日    |
 | 发财龙画     | ![Filmage 2024-05-16_190922](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/3f7e943e-220f-453c-b310-9a02a17cdf83)|     2024年05月16日    |
 | 滚动相册      | ![Filmage 2023-09-04_145328](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/dd3aadaf-846b-471e-bc39-f3e523be8b47)|    2023年8月15日    |
