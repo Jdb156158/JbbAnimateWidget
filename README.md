@@ -22,6 +22,7 @@ ios小组件动画效果调研
 
 | 效果名称            | 效果gif(低清压缩了) | 研究出来成果日期 |
 | --------------- | :--: | :----: |
+| 应援棒     |![Filmage 2024-07-04_173504](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/5c130cfb-0df4-4813-8ffe-e58333669835)|     2024年07月04日    |
 | 鲸鱼动画     |![鲸鱼动画](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/af80632c-d7b5-4c49-a15a-13cbf862fc7d)|     2024年07月04日    |
 | 摇摇乐     |![摇摇乐](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/b3771e7a-f5d1-4770-ad40-10646526c297)|     2024年07月03日    |
 | 自动敲木鱼     |![Filmage 2024-05-14_185444](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/55cae158-b3da-4c57-b6c6-a5f2f84e9156)|     2024年06月06日    |
