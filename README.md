@@ -17,10 +17,12 @@ ios小组件动画效果调研
 希望大家又新的思路积极分享啊，微信群目前有9个iOS开发都做研究这个问题，大家感兴趣的可以一起
 
 
+
 # 下边展示一些研究出来的效果
 
 | 效果名称            | 效果gif(低清压缩了) | 研究出来成果日期 |
 | --------------- | :--: | :----: |
+| 鲸鱼动画     |![鲸鱼动画](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/af80632c-d7b5-4c49-a15a-13cbf862fc7d)|     2024年07月04日    |
 | 摇摇乐     |![摇摇乐](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/b3771e7a-f5d1-4770-ad40-10646526c297)|     2024年07月03日    |
 | 自动敲木鱼     |![Filmage 2024-05-14_185444](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/55cae158-b3da-4c57-b6c6-a5f2f84e9156)|     2024年06月06日    |
 | 发财龙画     | ![Filmage 2024-05-16_190922](https://github.com/Jdb156158/JbbAnimateWidget/assets/18107143/3f7e943e-220f-453c-b310-9a02a17cdf83)|     2024年05月16日    |
